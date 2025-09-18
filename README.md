@@ -17,7 +17,6 @@ Always run in a safe test environment, not on your primary machine.
   - Copies and prepares hidden installer scripts.
   - Calls the extraction scripts in proper order.
   - Saves decoded payloads for further inspection in `output/`.
-- `full_analyize_installer.py` - necessary set of scripts which performing installer analysis.
 
 ---
 
