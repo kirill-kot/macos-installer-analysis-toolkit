@@ -25,7 +25,7 @@ Always run in a safe test environment, not on your primary machine.
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/kirillkott/macos-installer-analysis-toolkit.git
+git clone https://github.com/kirill-kot/macos-installer-analysis-toolkit.git
 cd installer-analysis-toolkit
 chmod +x *.sh
 ```
